@@ -37,7 +37,7 @@ function About({}: Props) {
         viewport={{
           once: true,
         }}
-        src="https://res.cloudinary.com/soares04/image/upload/v1680626242/ckexjvtna2qzhelj6cdh.jpg"
+        src="https://res.cloudinary.com/soares04/image/upload/v1724266097/hzpfwwmlncpp5jyqlem2.png"
         className="-mb-20 md:mb-0 w-56 h-56 flex-shrink-0 object-cover rounded-full md:rounded-lg md:w-64 md:h-95 xl:w-[400px] xl:h-[500px]"
       />
 
