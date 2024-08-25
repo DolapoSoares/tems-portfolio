@@ -26,13 +26,7 @@ function Projects({}: Props) {
       description: 'Arca offers a comprehensive suite of payment-related products and services to cater to businesses of all sizes,understand the unique requirements of each business and offer customised solutions accordingly.',
       url: 'https://arca.network/'
     },
-    {
-      id: 3,
-      imgSrc: 'https://res.cloudinary.com/soares04/image/upload/v1686153216/rqcwrp9pcl4inlocgcn5.png',
-      title: 'PennyCanny',
-      description: 'PennyCanny is your go to website when you want to get latest coupons to products for different companies like Doordash,Lowe\'s, chegg, Fiverr, GRUBHUB and the likes. PenyCanny is the ultimate destination for finding the best deals and discounts on everything from fashion and home decor to food and travel. They offer a hassle-free, high-value shopping experience to online buyers and help customers save money on their everyday purchases..',
-      url: 'https://pennycanny.com/'
-    }
+  
   ];
   return (
     <motion.div 

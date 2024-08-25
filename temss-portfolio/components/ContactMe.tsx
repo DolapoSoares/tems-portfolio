@@ -22,23 +22,23 @@ function ContactMe({}: Props) {
 
       <div className="flex flex-col space-y-10">
         <h4 className="text-4xl font-semibold text-center">
-          If you need my services,
-          <span> let&apos;s talk</span>
+         I am open to connecting,
+          <span> Contact Me</span>
         </h4>
 
         <div className="space-y-10">
           <div className="flex items-center space-x-5">
             <PhoneIcon className="text-[#f7ab0a] animate-pulse w-8 h-8" />
-            <p className="text-2xl">+2348088644250</p>
+            <p className="text-2xl">+2348051273723 </p>
           </div>
           <div className="flex items-center space-x-5">
             <EnvelopeIcon className="text-[#f7ab0a] animate-pulse w-8 h-8" />
-            <p className="text-2xl">soaresdolapo@gmail.com</p>
+            <p className="text-2xl">joycetemilolu1@gmail.com </p>
           </div>
           <div className="flex items-center space-x-5">
             <MapPinIcon className="text-[#f7ab0a] animate-pulse w-8 h-8" />
             <p className="text-2xl">
-              Lagos, Nigeria.
+              Nigeria.
             </p>
           </div>
         </div>
