@@ -20,7 +20,6 @@ function ExperienceCard({
   startDate,
   endDate,
   companyLogo,
-  logos,
   bulletPoints,
 }: Props) {
   
@@ -50,9 +49,9 @@ function ExperienceCard({
             <h4 className='text-4xl font-light'>{jobTitle} at {company}</h4>
             <p className='font-bold text-2xl mt-1'>{role}</p>
             <div className='flex space-x-2 my-2'>
-            {logos.map((logo, index) => (
+            {/* {logos.map((logo, index) => (
             <Image key={index} className='h-10 w-10 rounded-full' src={logo} width={100} height={100} alt=""/>
-          ))}
+          ))} */}
             </div>
             <p className='uppercase py-5 text-gray-500 '>{startDate} - {endDate}</p>
 

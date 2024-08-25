@@ -31,7 +31,7 @@ function Experience({}: Props) {
           endDate="May 2022"
           bulletPoints={["Managed the end-to-end building of the software that processes close to 70% of the device tracking system.", "Developed a B2B and device configuration module that led to the onboarding of 5,000 thousand devices in February 2022.", "Assisted with the development and launch of versions 1.1 to 1.5 of the Speed Manager system."]}
           companyLogo="https://res.cloudinary.com/soares04/image/upload/v1724439411/abjq98f6hyxbsvs1gq3h.png"
-          logos={["https://img.icons8.com/?size=100&id=54087&format=png&color=000000","https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000","https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000","https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000","https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000","https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000","https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000","https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000","https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000"]}
+          logos={[""]}
         />
         <ExperienceCard
            jobTitle="Manager"
@@ -40,8 +40,8 @@ function Experience({}: Props) {
            startDate="June 2022"
            endDate="December 2022"
            bulletPoints={["Worked with the Data, Business, Design, and Engineering teams to convert words into videos using generative AI.", "Worked with key stakeholders to develop a model that helped us reach 1200 journalists(active users) within 4 months."]}
-           companyLogo="https://res.cloudinary.com/soares04/image/upload/v1722640958/yvoaipdujj1zu3cauh5o.png"
-           logos={["https://img.icons8.com/?size=100&id=54087&format=png&color=000000","https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000","https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000","https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000","https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000","https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000","https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000","https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000","https://img.icons8.com/?size=100&id=34886&format=png&color=000000","https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000"]}
+           companyLogo="https://res.cloudinary.com/soares04/image/upload/v1724598196/cjjwd3bqvtmzs6uii8uu.png"
+           logos={[""]}
         />
         <ExperienceCard 
            jobTitle="Manager"
@@ -50,8 +50,8 @@ function Experience({}: Props) {
            startDate="May 2022"
            endDate="October 2023"
            bulletPoints={["Implemented flexible settlement features; A feature that enabled Merchants receive payments same day, hourly and withing 6 hours,taking them outside the industry standard for T+1 payments leading to a 20% growth in 5 months.", "Interphase with different banks to use their APIs for our payments.","Developed Arca's Funds Disbursement Platform end-to-end facilitating single and bulk payments using the NIBSS Multipay API","Facilitated the development or Arca's collection platform, Arca collect with deployment to 1 banks for bills payment."]}
-           companyLogo="https://res.cloudinary.com/soares04/image/upload/v1724598196/cjjwd3bqvtmzs6uii8uu.png"
-           logos={["https://img.icons8.com/?size=100&id=54087&format=png&color=000000","https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000","https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000","https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000","https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000"]}
+           companyLogo="https://res.cloudinary.com/soares04/image/upload/v1724439411/nkdo7cn25ubepthdtkrm.png"
+           logos={[""]}
         />
          <ExperienceCard 
            jobTitle="Manager"
@@ -64,7 +64,7 @@ function Experience({}: Props) {
             b. Integration with 3 top Banks in Nigeria (FBN, GTB, Union Banks)
             c. Availability of Billers on the TSA Settlement Module facilitating the same-day settlement.`, "Maintained client information and accounts while ensuring confidentiality, upholding professional ethics and standards.", "Built high-quality applications using React, JavaScript, and Nodejs and designed testable code and applications using the latest technical features."]}
            companyLogo="https://res.cloudinary.com/soares04/image/upload/v1724439411/hqspxjxe640it6sehvqc.png"
-           logos={["https://img.icons8.com/?size=100&id=54087&format=png&color=000000","https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000","https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000","https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000","https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000","https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000","https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000","https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000","https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000"]}
+           logos={[""]}
         />
       </div>
     </motion.div>
