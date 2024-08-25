@@ -42,8 +42,8 @@ function About({}: Props) {
       />
 
       <div className="space-y-10 px-0 md:px-10">
-        <h4 className="text-4xl font-semibold">A little summary About Me</h4>
-        <p className="text-base">I am Soares Dolapo. I am a FullStack developer(Frontend Heavy) with over 4 years experience. I am good with technologies like React-Native, React, TypeScript, Nodejs, Nestjs, Mongodb, Express and few other technologies I have worked with like firebase and the likes. I have worked with both startups and cooperations where I contributed to applications that contributed to the purpose at large. Working on different applications have helped me in acquiring knowledge that can be contribute to the society and solve real life problems.</p>
+        <h4 className="text-4xl font-semibold">Welcome to my professional space.</h4>
+        <p className="text-base">I am Joyce Temilolu Daramola, also known as Temilolu TTJ, a passionate and result-oriented Product Manager with a wealth of experience in IoT, SaaS, and Fintech. My journey spans startups and established companies, where I have honed my skills in implementing strategic marketing initiatives, driving growth, and maximizing revenue. My deep understanding of product management, coupled with a customer-first mindset and a positive, solution-driven approach, allows me to deliver high-quality services and achieve significant results consistently.</p>
       </div>
     </motion.div>
   );
