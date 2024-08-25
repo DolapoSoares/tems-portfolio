@@ -44,12 +44,12 @@ function Experience({}: Props) {
            logos={["https://img.icons8.com/?size=100&id=54087&format=png&color=000000","https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000","https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000","https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000","https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000","https://img.icons8.com/?size=100&id=bosfpvRzNOG8&format=png&color=000000","https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000","https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000","https://img.icons8.com/?size=100&id=34886&format=png&color=000000","https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000"]}
         />
         <ExperienceCard 
-           jobTitle="Engineer"
-           company="PennyCanny"
-           role="Fullstack Engineer"
-           startDate="March 2022"
-           endDate="June 2022"
-           bulletPoints={["Developed Single Page Applications using Javascript frameworks like Handlebars,Node.", "Utilized AWS for production and quality assurance testing, ensuring a seamless and reliable deployment process.", "Implemented design solutions and conducted root cause analysis on component failures, contributing to system stability and reliability."]}
+           jobTitle="Manager"
+           company="Arca"
+           role="Senior Product Manager"
+           startDate="May 2022"
+           endDate="October 2023"
+           bulletPoints={["Managed the back office for the acquiring and payment processing.", "Implemented flexible settlement features; A feature that enabled Merchants receive payments same day, hourly and withing 6 hours,taking them outside the industry standard for T+1 payments leading to a 20% growth in 5 months.", "Implemented design solutions and conducted root cause analysis on component failures, contributing to system stability and reliability."]}
            companyLogo="https://res.cloudinary.com/soares04/image/upload/v1722641040/tdzyy1qbatczbg5h52wh.jpg"
            logos={["https://img.icons8.com/?size=100&id=54087&format=png&color=000000","https://img.icons8.com/?size=100&id=PXTY4q2Sq2lG&format=png&color=000000","https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000","https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000","https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000"]}
         />
