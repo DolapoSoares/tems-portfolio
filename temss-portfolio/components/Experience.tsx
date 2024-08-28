@@ -22,7 +22,7 @@ function Experience({}: Props) {
         EXPERIENCE
       </h3>
 
-      <div className="w-full flex space-x-5 overflow-x-scroll p-30 snap-x snap-mandatory mt-40 scrollbar scrollbar-track-slate-400/20 scrollbar-thumb-[#f7ab0a]">
+      <div className="w-full flex space-x-5 overflow-x-scroll p-30 snap-x snap-mandatory mt-40 text-white scrollbar scrollbar-track-slate-400/20 scrollbar-thumb-[#f7ab0a]">
         <ExperienceCard
           jobTitle="Manager"
           company="Demz Analytics"
