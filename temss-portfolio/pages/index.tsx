@@ -9,6 +9,7 @@ import Projects from "../components/Projects"
 import ContactMe from "../components/ContactMe";
 import Volunteer from "../components/Volunteer";
 import Events from "../components/Events";
+import StartUp from "../components/StartUp";
 
 const Home: NextPage = () => {
   return (
@@ -24,6 +25,10 @@ const Home: NextPage = () => {
 
       <section id="about" className="snap-center">
         <About />
+      </section>
+
+      <section id="experience" className="snap-center">
+      <StartUp  />
       </section>
 
       <section id="experience" className="snap-center">
