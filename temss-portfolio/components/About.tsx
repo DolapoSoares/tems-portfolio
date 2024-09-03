@@ -43,7 +43,7 @@ function About({}: Props) {
 
       <div className="space-y-10 px-0 md:px-10">
         <h4 className="text-4xl font-semibold">Welcome to my professional space.</h4>
-        <p className="text-base">I am Joyce Temilolu Daramola, also known as Temilolu TTJ, a passionate and result-oriented Product Manager with a wealth of experience in IoT, SaaS, and Fintech. My journey spans startups and established companies, where I have honed my skills in implementing strategic marketing initiatives, driving growth, and maximizing revenue. My deep understanding of product management, coupled with a customer-first mindset and a positive, solution-driven approach, allows me to deliver high-quality services and achieve significant results consistently.</p>
+        <p className="text-base">I am Joyce Temiloluwa Daramola, also known as Temilolu TTJ, a passionate and result-oriented Product Manager with a wealth of experience in IoT, SaaS, and Fintech. My journey spans startups and established companies, where I have honed my skills in implementing strategic marketing initiatives, driving growth, and maximizing revenue. My deep understanding of product management, coupled with a customer-first mindset and a positive, solution-driven approach, allows me to deliver high-quality services and achieve significant results consistently.</p>
       </div>
     </motion.div>
   );

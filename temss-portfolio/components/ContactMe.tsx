@@ -28,10 +28,6 @@ function ContactMe({}: Props) {
 
         <div className="space-y-10">
           <div className="flex items-center space-x-5">
-            <PhoneIcon className="text-[#f7ab0a] animate-pulse w-8 h-8" />
-            <p className="text-2xl">+2348051273723 </p>
-          </div>
-          <div className="flex items-center space-x-5">
             <EnvelopeIcon className="text-[#f7ab0a] animate-pulse w-8 h-8" />
             <p className="text-2xl">joycetemilolu1@gmail.com </p>
           </div>
