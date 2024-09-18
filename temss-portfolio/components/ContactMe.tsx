@@ -22,7 +22,7 @@ function ContactMe({}: Props) {
 
       <div className="flex flex-col space-y-10">
         <h4 className="text-4xl font-semibold text-center">
-         I am open to connecting,
+          I am open to connecting,
           <span> Contact Me</span>
         </h4>
 
@@ -33,14 +33,20 @@ function ContactMe({}: Props) {
           </div>
           <div className="flex items-center space-x-5">
             <MapPinIcon className="text-[#f7ab0a] animate-pulse w-8 h-8" />
-            <p className="text-2xl">
-              Nigeria.
-            </p>
+            <p className="text-2xl">Nigeria.</p>
           </div>
           <div className="flex items-center space-x-5">
             <MapPinIcon className="text-[#f7ab0a] animate-pulse w-8 h-8" />
             <p className="text-2xl">
-            Please subscribe and like my video - <a>www.youtube.com/@joycetemilolu</a>
+              Please subscribe and like my video -{" "}
+              <a
+                href="https://www.youtube.com/@joycetemilolu"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="underline text-blue-500"
+              >
+                www.youtube.com/@joycetemilolu
+              </a>
             </p>
           </div>
         </div>
