@@ -37,6 +37,12 @@ function ContactMe({}: Props) {
               Nigeria.
             </p>
           </div>
+          <div className="flex items-center space-x-5">
+            <MapPinIcon className="text-[#f7ab0a] animate-pulse w-8 h-8" />
+            <p className="text-2xl">
+            Please subscribe and like my video - <a>www.youtube.com/@joycetemilolu</a>
+            </p>
+          </div>
         </div>
       </div>
     </div>
