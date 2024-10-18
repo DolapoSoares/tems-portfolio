@@ -6,8 +6,6 @@ type Props = {
   jobTitle: string;
   company: string;
   role: string;
-  startDate: string;
-  endDate: string;
   companyLogo: string;
   logos: string[];
   bulletPoints: string[];
@@ -17,8 +15,6 @@ function ExperienceCard({
   jobTitle,
   company,
   role,
-  startDate,
-  endDate,
   companyLogo,
   bulletPoints,
 }: Props) {
@@ -53,7 +49,6 @@ function ExperienceCard({
             <Image key={index} className='h-10 w-10 rounded-full' src={logo} width={100} height={100} alt=""/>
           ))} */}
             </div>
-            <p className='uppercase py-5 text-gray-500 '>{startDate} - {endDate}</p>
 
             <ul className='list-disc space-y-4 ml-5 text-lg'>
           {bulletPoints.map((point, index) => (
