@@ -27,8 +27,6 @@ function Experience({}: Props) {
           jobTitle="Manager"
           company="Demz Analytics"
           role="Product Manager"
-          startDate="Feb 2020"
-          endDate="May 2022"
           bulletPoints={["Managed the end-to-end building of the software that processes close to 70% of the device tracking system.", "Developed a B2B and device configuration module that led to the onboarding of 5,000 thousand devices in February 2022.", "Assisted with the development and launch of versions 1.1 to 1.5 of the Speed Manager system."]}
           companyLogo="https://res.cloudinary.com/soares04/image/upload/v1724439411/abjq98f6hyxbsvs1gq3h.png"
           logos={[""]}
@@ -37,8 +35,6 @@ function Experience({}: Props) {
            jobTitle="Manager"
            company="storri.AI"
            role="Product Manager"
-           startDate="June 2022"
-           endDate="December 2022"
            bulletPoints={["Worked with the Data, Business, Design, and Engineering teams to convert words into videos using generative AI.", "Worked with key stakeholders to develop a model that helped us reach 1200 journalists(active users) within 4 months."]}
            companyLogo="https://res.cloudinary.com/soares04/image/upload/v1724598196/cjjwd3bqvtmzs6uii8uu.png"
            logos={[""]}
@@ -47,8 +43,6 @@ function Experience({}: Props) {
            jobTitle="Manager"
            company="Arca Payments"
            role="Senior Product Manager"
-           startDate="May 2022"
-           endDate="October 2023"
            bulletPoints={["Implemented flexible settlement features; A feature that enabled Merchants receive payments same day, hourly and withing 6 hours,taking them outside the industry standard for T+1 payments leading to a 20% growth in 5 months.", "Interphase with different banks to use their APIs for our payments.","Developed Arca's Funds Disbursement Platform end-to-end facilitating single and bulk payments using the NIBSS Multipay API","Facilitated the development or Arca's collection platform, Arca collect with deployment to 1 banks for bills payment."]}
            companyLogo="https://res.cloudinary.com/soares04/image/upload/v1724439411/nkdo7cn25ubepthdtkrm.png"
            logos={[""]}
@@ -57,8 +51,6 @@ function Experience({}: Props) {
            jobTitle="Manager"
            company="Interswitch"
            role="Product Manager"
-           startDate="October 2023"
-           endDate="Present"
            bulletPoints={[`Delivered the completion of Paydirect Enterprise API restructuring, with a success rate featuring:
             a. Level 4 sigma processing accuracy
             b. Integration with 3 top Banks in Nigeria (FBN, GTB, Union Banks)
