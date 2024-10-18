@@ -26,15 +26,11 @@ function Volunteer({}: Props) {
         <VolunteerCard
           company="Utiva Product School"
           role="Product Management Mentor"
-          startDate="2021"
-          endDate="2023"
           companyLogo={"https://res.cloudinary.com/soares04/image/upload/v1725286234/wzkzze97fm8dtkwzevfi.jpg"}
         />
         <VolunteerCard
           company="Web3 Ladies"
           role="Product Management Mentor"
-          startDate="2022"
-          endDate="2023"
           companyLogo={"https://res.cloudinary.com/soares04/image/upload/v1725286234/lrxfq5op1cszbrkmzrxb.png"}
         />
       </div>
