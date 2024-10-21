@@ -25,7 +25,7 @@ function Header({}: Props) {
         className="flex flex-row items-center "
       >
         <SocialIcon
-          url="www.linkedin.com/in/joyce-temilolu-daramola-6102ba192"
+          url="https://www.linkedin.com/in/joyce-temilolu-daramola-6102ba192/"
           fgColor="gray"
           bgColor="transparent"
         />
